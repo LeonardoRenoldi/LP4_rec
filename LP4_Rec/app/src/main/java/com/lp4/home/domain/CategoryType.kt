@@ -1,4 +1,4 @@
-package com.lp4.domain
+package com.lp4.home.domain
 
 enum class CategoryType {
 

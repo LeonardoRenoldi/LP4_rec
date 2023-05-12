@@ -12,11 +12,12 @@
         android:fullBackupContent="@xml/backup_rules"
         android:label="@string/app_name"
         android:supportsRtl="true"
+        android:name=".App"
         android:theme="@style/Theme.MeuApp"
         tools:targetApi="31">
 
         <activity
-            android:name=".character.view.NewCharacterActivity"
+            android:name=".newcharacter.view.NewCharacterActivity"
             android:exported="false" />
         <activity
             android:name=".profile.ProfileActivity"

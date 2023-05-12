@@ -6,7 +6,7 @@ import android.os.Bundle
 import androidx.viewpager.widget.ViewPager
 import com.google.android.material.tabs.TabLayout
 import com.lp4.adapter.MyAdapter
-import com.lp4.character.view.NewCharacterActivity
+import com.lp4.newcharacter.view.NewCharacterActivity
 import com.lp4.databinding.ActivityHomeBinding
 
 class HomeActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.lp4.character.view
+package com.lp4.newcharacter.view
 
 import android.R
 import android.content.Intent
@@ -8,7 +8,7 @@ import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import com.lp4.api.CharacterClient
-import com.lp4.character.presentation.NewCharacterViewModel
+import com.lp4.newcharacter.presentation.NewCharacterViewModel
 import com.lp4.database.SharedPreferencesUtils
 import com.lp4.databinding.ActivityNewCharacterBinding
 import com.lp4.home.HomeActivity

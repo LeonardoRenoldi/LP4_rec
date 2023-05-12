@@ -1,4 +1,4 @@
-package com.lp4.character.presentation
+package com.lp4.newcharacter.presentation
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
